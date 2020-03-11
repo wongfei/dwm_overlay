@@ -1,0 +1,16 @@
+_bin/
+_obj/
+ipch/
+
+.vs/
+
+*.suo
+*.sdf
+*.opensdf
+*.db
+*.opendb
+*.exe
+*.pdb
+*.user
+*.filters
+*.log
